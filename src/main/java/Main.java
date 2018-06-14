@@ -8,6 +8,7 @@ import utfpr.dainf.ct.ed.exemplo.ArvoreB;
  * Teste de implementação de árvore B.
  * 
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
+ * @coauthor Giovanni Forastieri <forastieri@alunos.utfpr.edu.br>
  */
 public class Main {
     
