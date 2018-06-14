@@ -12,6 +12,7 @@ import java.util.stream.Collectors;
  * 
  * Exemplo de implementação de árvore AVL.
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
+ * @coauthor Giovanni Forastieri <forastieri@alunos.utfpr.edu.br>
  * @param <K> O tipo de dado da chave.
  */
 public class ArvoreB<K extends Comparable<? super K>> {
